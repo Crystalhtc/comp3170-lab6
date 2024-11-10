@@ -1,0 +1,10 @@
+.countries {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.country {
+    width: 30%;
+    box-sizing: border-box;
+}
